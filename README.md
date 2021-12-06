@@ -13,7 +13,7 @@
 
 - 💬 Puedes preguntarnos por **dart, flutter, desarrollo de apps**
 
-- 📫 Correo electrónnico **https://www.facebook.com/groups/2113715065448005**
+- 📫 Correo electrónnico **code.girl.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
